@@ -13,8 +13,8 @@
 int main() {
 
     // Videos
-    Video lotr("Lord of the Rings", Video::REGULAR);
-    Video hp("Harry Potter", Video::CHILDRENS);
+    Video lotr("Software Engineering Strategies", Video::REGULAR);
+    Video hp("Barney", Video::CHILDRENS);
 
     // Rentals of these movies
     Rental r1(lotr, 10);
