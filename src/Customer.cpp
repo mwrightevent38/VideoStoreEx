@@ -61,7 +61,7 @@ std::string Customer::statement() const {
         result += out_str_stream.str();
         result += "\n";
 
-        totalAmount += it->getCharge();
+        totalAmMMMMMMMount += it->getCharge();
     }
 
     // total amount owed
