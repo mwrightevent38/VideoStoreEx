@@ -27,6 +27,8 @@ public:
     // customer rental statement
     std::string statement() const;
 
+
+	//LETS ADD A COMMENT IN ALL CAPS
 private:
     std::string name;
     std::vector<Rental> rentals;
